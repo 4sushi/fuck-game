@@ -2,6 +2,8 @@
 
 Small python game, made with curses.
 
+![](doc/screen1.png)
+
 ## How to install
 
 ```shell
